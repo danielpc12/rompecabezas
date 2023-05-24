@@ -1,0 +1,41 @@
+
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¢åÚ˜üÿÿÿÿ
+D
+java:S1905Š"(Remove this unnecessary cast to "Ficha".(±ò¥ûıÿÿÿÿ
+?
+java:S1905"(Remove this unnecessary cast to "Ficha".(½µÎ¿
+D
+java:S1905§"(Remove this unnecessary cast to "Ficha".(¬æï´şÿÿÿÿ
+D
+java:S1905¬"(Remove this unnecessary cast to "Ficha".(îƒóûÿÿÿÿ
+D
+java:S1905¸"(Remove this unnecessary cast to "Ficha".(±§À£ùÿÿÿÿ
+D
+java:S1905Ë"(Remove this unnecessary cast to "Ficha".(Ùâõÿüÿÿÿÿ
+?
+java:S1905Ì"(Remove this unnecessary cast to "Ficha".(áº€ò
+D
+java:S1905ã"(Remove this unnecessary cast to "Ficha".(Ùâõÿüÿÿÿÿ
+?
+java:S1905ä"(Remove this unnecessary cast to "Ficha".(áº€ò
+@
+java:S2140·")Use "java.util.Random.nextInt()" instead.(±ˆ”Ì
+@
+java:S2140¸")Use "java.util.Random.nextInt()" instead.(›´ÚÂ
+?
+java:S1905¹"(Remove this unnecessary cast to "Ficha".(Ö„ºì
+?
+java:S1905Î"(Remove this unnecessary cast to "Ficha".(î¢¹
+<
+java:S2129®" Remove this "String" constructor(ÀÔŠÈøÿÿÿÿ
+D
+java:S1905ğ"(Remove this unnecessary cast to "Ficha".(Şñä´øÿÿÿÿ
+D
+java:S1905ö"(Remove this unnecessary cast to "Ficha".(Ó­Èüÿÿÿÿ
+D
+java:S1905‹"(Remove this unnecessary cast to "Ficha".(Şñä´øÿÿÿÿ
+D
+java:S1905‘"(Remove this unnecessary cast to "Ficha".(Ó­Èüÿÿÿÿ
+D
+java:S1905¥"(Remove this unnecessary cast to "Ficha".(Şñä´øÿÿÿÿ
